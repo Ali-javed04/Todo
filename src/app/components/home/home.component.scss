@@ -1,0 +1,49 @@
+.custom-bg:hover {
+  background-color: lightblue;
+  color: white;
+}
+.isSelected {
+  background-color: lightgreen;
+   color: black;
+}
+.text-c {
+  justify-content: center;
+  display: flex;
+  background: lightseagreen;
+    color: white;
+    padding: 4px;
+    font-family: system-ui;
+
+}
+
+    .text-cc {
+      justify-content: center;
+      display: flex;
+      background: lightgray;
+    color: #626060;
+    font-family: system-ui;
+        padding: 4px;
+    }
+.background-main {
+  background-color: #d3d3d31c;
+}
+.background-nav {
+  background-color: aliceblue;
+}
+.custom-float {
+  justify-content: flex-end;
+  display: flex;
+}
+.delete-icon-div {
+  padding-top: 11px;
+}
+.delete-icon {
+  font-size: 24px;
+  color: red;
+  cursor: pointer
+}
+.edit-icon {
+  font-size: 24px;
+  color: rgba(255, 0, 140, 0.651);
+  cursor: pointer
+}
